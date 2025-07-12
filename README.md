@@ -8,9 +8,9 @@
 
 <p align="left">
 ✨ Estudante do Ensino Médio Integrado em Informática no IFTM <br>
-💻 Apaixonado por HTML, CSS e JavaScript <br>
+💻 Apaixonado por HTML e CSS  <br>
 🎨 Quero me aprofundar cada vez mais no Front-End e criar interfaces incríveis! <br>
-🚀 Faço parte da empresa fictícia Teratim, onde coloco em prática meus conhecimentos <br>
+🚀 Faço parte da empresa fictícia Teratem, onde coloco em prática meus conhecimentos <br>
 🧠 Sempre buscando aprender mais e deixar meus projetos com aquele toque especial ✨ <br>
 🌐 Sonho em criar sites que encantem quem usa e quem vê! <br>
 💡 Curioso, criativo e com muita vontade de explorar o mundo da programação 💕
@@ -25,8 +25,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+
 
 ---
 
@@ -40,8 +39,3 @@
 
 ---
 
-<h2 align="center">🐍 Snake time!</h2>
-
-<p align="center">
-  <img src="https://github.com/luizhypolito/luizhypolito/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
