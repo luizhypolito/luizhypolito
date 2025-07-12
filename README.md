@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center"> My GitHub Stats</h2>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizhypolito&show_icons=true&theme=radical"/>
